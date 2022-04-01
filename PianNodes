@@ -1,7 +1,4 @@
-function BloxBurgg()
-    
-    
-    do
+do
 getreg().whitelist_key = 'cracked';
 getreg().ID = 'lol';
 
@@ -6611,7 +6608,3 @@ else
     report(7,'R6, ' .. time3 .. " " .. res3) --Response Spoofing
     return
 end
-
-end
-
-BloxBurgg()
